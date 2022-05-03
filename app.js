@@ -16,6 +16,8 @@ web3.eth.sendTransaction(
   }
 );
 
+// abi below for json format.
+
 // console.log("connected");
 
 // web3.eth.getBlockNumber().then(console.log);
